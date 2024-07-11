@@ -1,0 +1,30 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://filesampleshub.com/download/code/html/sample1.html
+Subject: Sample
+Date: Thu, 11 Jul 2024 11:58:42 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--KuXhzpIZx8qSf6Rk1eP7tK9k7bQA0pBfG0G4zuBvhT----"
+
+
+------MultipartBoundary--KuXhzpIZx8qSf6Rk1eP7tK9k7bQA0pBfG0G4zuBvhT----
+Content-Type: text/html
+Content-ID: <frame-0632661F33924F47C9A4F1A9CF5B73F8@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://filesampleshub.com/download/code/html/sample1.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Sample</title>
+</head>
+
+<body>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat quo corrupti unde aliquam magnam, maxime labore
+        eos omnis possimus autem similique quae, quia nam, molestiae aperiam ratione est ut repellendus?</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat quo corrupti unde aliquam magnam, maxime labore
+        eos omnis possimus autem similique quae, quia nam, molestiae aperiam ratione est ut repellendus?</p>
+
+
+</body></html>
+------MultipartBoundary--KuXhzpIZx8qSf6Rk1eP7tK9k7bQA0pBfG0G4zuBvhT------
